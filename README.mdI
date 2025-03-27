@@ -1,0 +1,10 @@
+I developed a nasal dilator equipped with two thermistors capable of accurately detecting and recording respiratory rate. This device was entirely designed and prototyped in a laboratory setting, where I personally oversaw the design, development, and integration of both mechanical and electronic components.
+
+The mechanical parts of the device were first modeled using CAD software, allowing for precise customization and optimization of the geometry for anatomical compatibility and sensor placement. After selecting the most suitable materials based on strength, biocompatibility, and ease of manufacturing, the components were 3D printed to create a functional prototype.
+
+On the electronic side, I designed and soldered a custom circuit on a board, integrating the thermistors and connecting them to an Arduino-based stack. The microcontroller handled real-time data acquisition and transmitted the signals via Bluetooth to a computer.
+
+The data received was processed in real-time using a MATLAB program that I developed, which was capable of analyzing the thermal fluctuations detected by the sensors and converting them into a live respiratory rate graph. This provided immediate feedback on the user’s breathing pattern, offering potential applications in fields such as sleep monitoring, sports performance analysis, and respiratory diagnostics.
+
+Overall, the project demonstrates a complete development cycle—from concept and mechanical design to electronic integration, signal processing, and data visualization—highlighting my multidisciplinary skills in biomedical engineering, embedded systems, and software development.
+
